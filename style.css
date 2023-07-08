@@ -1,0 +1,21 @@
+table,td,th{
+  border: 2px solid rgb(7, 232, 248);
+  height: 50px;
+  width: 900px;
+  text-align: center;
+}
+td{
+  border: 2px solid greenyellow;
+}
+th{
+  border: 2px solid yellow;
+}
+body{
+  background-color: black;
+  color: white;
+  justify-content: center;
+  text-align: center;
+  text-align: center;
+  margin-left: 20%;
+  margin-top: 5%;
+}
